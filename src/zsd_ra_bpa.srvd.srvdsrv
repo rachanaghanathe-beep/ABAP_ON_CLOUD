@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for BPA'
+define service ZSD_RA_BPA {
+  expose ZC_RA_BPA as BusinessPartner;
+}

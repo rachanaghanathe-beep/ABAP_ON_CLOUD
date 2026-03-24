@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Sales data'
+define service ZRA_SO_SD {
+  expose ZI_RA_SALES_ANA as SalesSet;
+}

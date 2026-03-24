@@ -1,0 +1,4 @@
+@EndUserText.label: 'Product definition'
+define service ZRA_PRD {
+  expose ZI_RA_PRODUCT;
+}
